@@ -29,4 +29,5 @@ This study contributes to the conceptual debate on decision-making under uncerta
 - Foresight
 - Big Data
 - Machine Learning
-- Artificial Intelligence  
+- Artificial Intelligence
+[Link](https://doi.org/10.1108/FS-12-2022-018)
