@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Big data, machine learning and uncertainty in foresight studies"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-muraro-sallesfilho
+excerpt: 'This study contributes to the conceptual debate on decision-making under uncertainty and raises public understanding on the opportunities and challenges of using Big Data and Machine Learning for foresight and decision-making.'
+date: 2024-04-21
+venue: 'Foresight'
+#slidesurl: 'http://murarosilva.github.io/files/slides1.pdf'
+paperurl: 'http://murarosilva.github.io/files/2024-muraro-sallesfilho.pdf'
+citation: 'Muraro, V. and Salles-Filho, S. (2024), "Big data, machine learning and uncertainty in foresight studies", Foresight, Vol. 26 No. 3, pp. 436-452. https://doi.org/10.1108/FS-12-2022-0187'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
